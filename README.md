@@ -20,3 +20,15 @@ Questions Answered: :) What college major has the highest mid-career salary? How
 
 :)Which college major has the lowest mid-career salary and how much can people expect to earn with this degree?
 
+#Sorting Values & Adding Columns: Majors with the Most Potential vs Lowest Risk
+.subtract()method we calculate calculate the difference between the earnings of the 10th and 90th percentile
+.sort_values() method
+.insert() add to existing dataframe
+
+#Grouping and Pivoting Data with Pandas
+.groupby() method-to manipulate data similar to a Microsoft Excel Pivot Table
+.groupby().count() grouping entries that belong to a particular category and counting
+.groupby.mean() grouping entries that belong to a particular category and calculating the mean
+
+
+
